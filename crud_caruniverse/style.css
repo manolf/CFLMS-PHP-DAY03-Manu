@@ -1,0 +1,21 @@
+.foto{
+    width: 200px;
+    height: 100px;
+}
+
+.jumbotron{
+    background: url("https://cdn.pixabay.com/photo/2014/06/04/16/36/car-repair-362150_1280.jpg") no-repeat center center; 
+    background-size: 60% 100%;
+    margin-top: 4vw;
+
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    padding-top: 2vw;
+}
+
+.autos{
+    background-color: #343A40;
+}  
